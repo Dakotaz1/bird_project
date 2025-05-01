@@ -20,4 +20,4 @@ npm install
 
 Video de présentation :
 
-https://www.youtube.com/watch?v=pNgfgCXvLhM](https://youtu.be/BTmQ0OsaJbU
+[https://www.youtube.com/watch?v=pNgfgCXvLhM](https://youtu.be/BTmQ0OsaJbU](https://youtu.be/hvp18PMeKl0)
