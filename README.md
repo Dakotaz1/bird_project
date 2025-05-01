@@ -17,3 +17,7 @@ Elle permet aux utilisateurs de s'inscrire, se connecter, publier des tweets et 
 
 ```bash
 npm install
+
+Video de présentation :
+
+https://www.youtube.com/watch?v=pNgfgCXvLhM
